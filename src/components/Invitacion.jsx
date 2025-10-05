@@ -95,6 +95,12 @@ const Invitacion = () => {
               className="absolute right-[-80px] lg:right-[-50px] top-1/2 transform -translate-y-1/2 w-40 lg:w-52 opacity-70"
             />
           </div>
+          <div className="bg-white py-10 text-center px-6 font-montserrat text-gray-700">
+            <p className="text-lg md:text-xl leading-relaxed">
+              Nos encantaría que compartas este día tan especial con nosotros.<br />
+              Por eso, te pedimos que confirmes tu asistencia.
+            </p>
+          </div>
           <Asistencia
             clase="pt-10 bg-fondo-banner font-montserrat"
             claseButton="border-2 py-3 px-6 rounded-full border-gray-800 hover:border-gray-700 hover:bg-white hover:text-gray:800"
